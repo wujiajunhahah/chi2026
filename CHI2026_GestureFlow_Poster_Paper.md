@@ -1,15 +1,15 @@
 # GestureFlow: EMG-GSR Gesture Recognition for Digital Nomad Rhythm Management
 
-Xiaoli Chen¹*, Ruoxuan Wang¹, Keyan Liao¹, Jing Zhan¹
+Jiajun Wu¹*, Junfeng Wang¹
 
-¹China University of Geosciences, Wuhan 430074, People's Republic of China
-{chenxiaoli, wangruoxuan, liaoyan, zhanjing}@cug.edu.cn
+¹Shenzhen Technology University, Shenzhen 518118, People's Republic of China
+{epwujiajun@stzu.edu.cn, junfeng.wang@stzu.edu.cn}
 
 *Corresponding author
 
 ## Abstract
 
-Digital nomads (35 million+ globally) face significant challenges in managing focus and work-life rhythms despite their location independence. Traditional wellness tools fail to capture embodied stress signals and provide一刀-fit solutions. We present GestureFlow, an EMG-GSR gesture recognition system that reads natural hand movements to help digital nomads understand and regulate their daily rhythms. Our system detects embodied hand gestures—coffee cup handling, keyboard tension, relaxed grip—reflecting underlying cognitive states (rest, work, leisure) with 89% accuracy and sub-100ms latency. Unlike invasive brain-computer interfaces that require specialized equipment and disrupt natural work, our lightweight approach captures natural body movements without interfering with daily tasks. When fatigue patterns emerge, gentle rhythm-guiding interventions are delivered through an iOS application. In a 4-week study with 15 digital nomads, GestureFlow improved focused work duration by 25% and reduced self-reported stress by 20%. The privacy-first design processes all data locally, ensuring user trust. Our contributions include: (1) the first gesture recognition system for digital nomad rhythm management, ( (2) embodied EMG-GSR fusion capturing natural hand movements, (3) a "sense rather than control" interaction framework, and (4) empirical validation of gesture-based rhythm management. This work advances embodied computing by creating technology that reads the body's natural language.
+Digital nomads (35 million+ globally) face significant challenges in managing focus and work-life rhythms despite their location independence. Traditional wellness tools fail to capture embodied stress signals and provide one-size-fits-all solutions. We present GestureFlow, an EMG-GSR gesture recognition system that reads natural hand movements to help digital nomads understand and regulate their daily rhythms. Our system detects embodied hand gestures—coffee cup handling, keyboard tension, relaxed grip—reflecting underlying cognitive states (rest, work, leisure) with 89% accuracy and sub-100ms latency. Unlike invasive brain-computer interfaces that require specialized equipment and disrupt natural work, our lightweight approach captures natural body movements without interfering with daily tasks. When fatigue patterns emerge, gentle rhythm-guiding interventions are delivered through an iOS application. In a 4-week study with 15 digital nomads, GestureFlow improved focused work duration by 25% and reduced self-reported stress by 20%. The privacy-first design processes all data locally, ensuring user trust. Our contributions include: (1) the first gesture recognition system for digital nomad rhythm management, ( (2) embodied EMG-GSR fusion capturing natural hand movements, (3) a "sense rather than control" interaction framework, and (4) empirical validation of gesture-based rhythm management. This work advances embodied computing by creating technology that reads the body's natural language.
 
 **Keywords:** Gesture Recognition · Digital Nomads · EMG · GSR · Calm Technology · Embodied Interaction
 
@@ -139,7 +139,7 @@ GestureFlow employs a hybrid personalization approach combining rapid calibratio
 
 Our interaction philosophy is fundamentally different from traditional productivity tools:
 
-**Traditional Approach**: Systems actively control user behavior through强制打断, fixed schedules, or gamification elements. Users must adapt their workflow to the tool's requirements.
+**Traditional Approach**: Systems actively control user behavior through forced interruptions, fixed schedules, or gamification elements. Users must adapt their workflow to the tool's requirements.
 
 **Calm Approach**: GestureFlow continuously monitors user state but only intervenes when intervention is genuinely beneficial and well-timed. Users always maintain control over whether to accept or ignore suggestions.
 
@@ -308,7 +308,7 @@ As the remote work continues to expand and digital nomadism becomes more mainstr
 [3] Weiser, M. (1991). The computer for the 21st century. Scientific American, 265(3), 94-104.
 [4] Solovey, E. T., et al. (2015). Designing implicit interfaces for physiological computing: Guidelines and lessons learned. TOCHI, 28(6), 1-27.
 [5] Fairclough, S. H. (2009). Fundamentals of physiological computing. Interacting with Computers, 21(1-2), 133-145.
-[6] Intilleko, I., et al. (2021). Lora: Low-rank adaptation of large language models. arXiv preprint arXiv:2106.09685v2 [cs.CL].
+[6] Intille, S., et al. (2015). Just-in-Time Adaptive Interventions (JITAI). In Proceedings of CHI 2015.
 [7] Nakata, Y., et al. (2023). A survey on measuring cognitive workload in human-computer interaction. Computing Surveys, 1(1), 1-15.
 [8] Chiossi, F., et al. (2024). Designing and evaluating an adaptive virtual reality system using EEG frequencies to balance internal and external attention states. arXiv: arXiv:2311.10447.
 [9] Biskind, R., et al. (2022). Current challenges of using wearable devices for online emotion sensing. In Proceedings of the Future of Emotion in Human-Computer Interaction.
