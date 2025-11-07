@@ -1,9 +1,9 @@
 # GestureFlow: EMG-GSR Gesture Recognition for Digital Nomad Rhythm Management
 
-Jiajun Wu¹*, Junfeng Wang¹
+Jiajun Wu¹*(ORCID: 0009-0000-6828-2241), Junfeng Wang¹
 
-¹Shenzhen Technology University, Shenzhen 518118, People's Republic of China
-{epwujiajun@stzu.edu.cn, junfeng.wang@stzu.edu.cn}
+¹School of Creative Design, Shenzhen Technology University, Shenzhen 518118, People's Republic of China
+{epwujiajun@icloud.com, wangjunfeng@sztu.edu.cn}
 
 *Corresponding author
 
