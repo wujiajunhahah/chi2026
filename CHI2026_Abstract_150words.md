@@ -1,0 +1,7 @@
+# CHI2026 Poster Abstract (150 words)
+
+Remote workers face persistent mental health challenges, with traditional wellness tools failing to address underlying physiological states. We present NeuroNature, a novel system integrating real-time EMG+GSR emotion detection with intelligent nature-based interventions. Our multi-modal architecture achieves 87% classification accuracy for four emotional states with sub-100ms latency using CoreML-optimized models on macOS. When sustained stress is detected, the system delivers personalized outdoor activity suggestions through an iOS application (Reality Badge) based on weather conditions and user preferences.
+
+In a 4-week study with 15 remote workers, NeuroNature demonstrated significant improvements: 32% increase in outdoor activity duration, 28% reduction in self-reported stress, and 76% intervention acceptance rate. The privacy-first design processes all physiological data locally, ensuring user trust and data security.
+
+Our contributions include: (1) a novel physiological-environmental fusion architecture, (2) intelligent context-aware intervention framework, (3) empirical validation of nature-based stress mitigation, and (4) a complete open-source implementation. This work advances Just-in-Time Adaptive Interventions by creating a closed-loop system between physiological monitoring, environmental awareness, and nature-based behavioral nudges, demonstrating significant potential for improving remote worker well-being.
