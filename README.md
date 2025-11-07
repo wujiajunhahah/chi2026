@@ -1,21 +1,22 @@
-# CHI2026 Poster - EmotionHand: Real-time Emotion Recognition System
+# CHI2026 Poster - GestureFlow: Digital Nomad Gesture Recognition System
 
 [![CHI2026](https://img.shields.io/badge/CHI-2026-blue.svg)](https://chi2026.acm.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![macOS](https://img.shields.io/badge/macOS-11+-black.svg)](https://developer.apple.com/macos/)
 [![iOS](https://img.shields.io/badge/iOS-14+-blue.svg)](https://developer.apple.com/ios/)
 
 ## 🎯 项目概述
 
-本项目是CHI2026 Poster投稿项目，旨在开发一个基于EMG+GSR双模态生理信号的实时情绪识别系统。系统通过融合肌电信号(EMG)和皮电反应(GSR)，实现对人手情绪状态的实时检测和可视化反馈。
+本项目是CHI2026 Poster投稿项目，专注于3500万数字游民群体的专注力与生活节奏管理。GestureFlow通过EMG+GSR手势识别技术，读取用户自然的手部动作（如咖啡杯握持、键盘敲击紧张、放松握持等），帮助数字游民理解并调节其工作-生活节奏。
 
 ### 核心创新
-- 🔬 **双模态融合**: EMG(8通道) + GSR 信号互补分析
-- ⚡ **实时性能**: <100ms推理延迟，1000Hz EMG采样
-- 🎯 **个性化校准**: 2分钟快速个体适应机制
-- 🎨 **原生可视化**: macOS原生App + 手机App实时互联
-- 📖 **开源贡献**: 完整代码库和数据集
+- 🤚 **手势识别**: 读取自然手部动作，而非抽象生理信号
+- 🔬 **具身计算**: EMG+GSR融合，捕捉身体语言的细微变化
+- ⚡ **实时性能**: <100ms推理延迟，>60Hz处理帧率
+- 🌊 **节奏管理**: 识别休息/工作/休闲三种核心状态
+- 🎨 **温和干预**: "感知而非控制"的交互设计哲学
+- 📱 **跨设备协同**: macOS监测 + iOS轻干预的无缝集成
+- 🔒 **隐私优先**: 所有数据本地处理，用户完全控制
 
 ## 📋 项目状态
 
